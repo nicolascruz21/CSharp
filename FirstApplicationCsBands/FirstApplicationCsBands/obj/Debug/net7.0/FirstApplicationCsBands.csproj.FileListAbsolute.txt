@@ -1,0 +1,15 @@
+C:\Users\gpnet\source\repos\FirstApplicationCsBands\FirstApplicationCsBands\bin\Debug\net7.0\FirstApplicationCsBands.exe
+C:\Users\gpnet\source\repos\FirstApplicationCsBands\FirstApplicationCsBands\bin\Debug\net7.0\FirstApplicationCsBands.deps.json
+C:\Users\gpnet\source\repos\FirstApplicationCsBands\FirstApplicationCsBands\bin\Debug\net7.0\FirstApplicationCsBands.runtimeconfig.json
+C:\Users\gpnet\source\repos\FirstApplicationCsBands\FirstApplicationCsBands\bin\Debug\net7.0\FirstApplicationCsBands.dll
+C:\Users\gpnet\source\repos\FirstApplicationCsBands\FirstApplicationCsBands\bin\Debug\net7.0\FirstApplicationCsBands.pdb
+C:\Users\gpnet\source\repos\FirstApplicationCsBands\FirstApplicationCsBands\obj\Debug\net7.0\FirstApplicationCsBands.csproj.AssemblyReference.cache
+C:\Users\gpnet\source\repos\FirstApplicationCsBands\FirstApplicationCsBands\obj\Debug\net7.0\FirstApplicationCsBands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpnet\source\repos\FirstApplicationCsBands\FirstApplicationCsBands\obj\Debug\net7.0\FirstApplicationCsBands.AssemblyInfoInputs.cache
+C:\Users\gpnet\source\repos\FirstApplicationCsBands\FirstApplicationCsBands\obj\Debug\net7.0\FirstApplicationCsBands.AssemblyInfo.cs
+C:\Users\gpnet\source\repos\FirstApplicationCsBands\FirstApplicationCsBands\obj\Debug\net7.0\FirstApplicationCsBands.csproj.CoreCompileInputs.cache
+C:\Users\gpnet\source\repos\FirstApplicationCsBands\FirstApplicationCsBands\obj\Debug\net7.0\FirstApplicationCsBands.dll
+C:\Users\gpnet\source\repos\FirstApplicationCsBands\FirstApplicationCsBands\obj\Debug\net7.0\refint\FirstApplicationCsBands.dll
+C:\Users\gpnet\source\repos\FirstApplicationCsBands\FirstApplicationCsBands\obj\Debug\net7.0\FirstApplicationCsBands.pdb
+C:\Users\gpnet\source\repos\FirstApplicationCsBands\FirstApplicationCsBands\obj\Debug\net7.0\FirstApplicationCsBands.genruntimeconfig.cache
+C:\Users\gpnet\source\repos\FirstApplicationCsBands\FirstApplicationCsBands\obj\Debug\net7.0\ref\FirstApplicationCsBands.dll
