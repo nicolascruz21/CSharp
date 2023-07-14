@@ -1,4 +1,5 @@
 Gerenciador de Ramais
+
 Este projeto tem como objetivo desenvolver um software para o gerenciamento de ramais, com funcionalidades específicas para administradores e usuários comuns. O software proporciona uma interface intuitiva e prática para facilitar a configuração e consulta de ramais dentro de uma organização.
 
 Funcionalidades
