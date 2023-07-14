@@ -10,4 +10,4 @@
 23,  Daniel Ventura,  8048,  Informatica, 5,  6
 69, Caue Vieira, 4560, Informatica, 5, 6
 70, Maria Lucia, 4650, CPD, 2, 1
-1, José Santos, 7010, CPO, 4, 3
+
