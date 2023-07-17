@@ -1,0 +1,45 @@
+C:\Users\jab\source\repos\ListaRamal\ListaRamal\bin\Debug\net7.0\ListaRamal.exe
+C:\Users\jab\source\repos\ListaRamal\ListaRamal\bin\Debug\net7.0\ListaRamal.deps.json
+C:\Users\jab\source\repos\ListaRamal\ListaRamal\bin\Debug\net7.0\ListaRamal.runtimeconfig.json
+C:\Users\jab\source\repos\ListaRamal\ListaRamal\bin\Debug\net7.0\ListaRamal.dll
+C:\Users\jab\source\repos\ListaRamal\ListaRamal\bin\Debug\net7.0\ListaRamal.pdb
+C:\Users\jab\source\repos\ListaRamal\ListaRamal\obj\Debug\net7.0\ListaRamal.csproj.AssemblyReference.cache
+C:\Users\jab\source\repos\ListaRamal\ListaRamal\obj\Debug\net7.0\ListaRamal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jab\source\repos\ListaRamal\ListaRamal\obj\Debug\net7.0\ListaRamal.AssemblyInfoInputs.cache
+C:\Users\jab\source\repos\ListaRamal\ListaRamal\obj\Debug\net7.0\ListaRamal.AssemblyInfo.cs
+C:\Users\jab\source\repos\ListaRamal\ListaRamal\obj\Debug\net7.0\ListaRamal.csproj.CoreCompileInputs.cache
+C:\Users\jab\source\repos\ListaRamal\ListaRamal\obj\Debug\net7.0\ListaRamal.dll
+C:\Users\jab\source\repos\ListaRamal\ListaRamal\obj\Debug\net7.0\refint\ListaRamal.dll
+C:\Users\jab\source\repos\ListaRamal\ListaRamal\obj\Debug\net7.0\ListaRamal.pdb
+C:\Users\jab\source\repos\ListaRamal\ListaRamal\obj\Debug\net7.0\ListaRamal.genruntimeconfig.cache
+C:\Users\jab\source\repos\ListaRamal\ListaRamal\obj\Debug\net7.0\ref\ListaRamal.dll
+C:\Users\jab\source\repos\PROJETO RAMAL LIST\Protótipo 0.2\ListaRamal\ListaRamal\bin\Debug\net7.0\ListaRamal.exe
+C:\Users\jab\source\repos\PROJETO RAMAL LIST\Protótipo 0.2\ListaRamal\ListaRamal\bin\Debug\net7.0\ListaRamal.deps.json
+C:\Users\jab\source\repos\PROJETO RAMAL LIST\Protótipo 0.2\ListaRamal\ListaRamal\bin\Debug\net7.0\ListaRamal.runtimeconfig.json
+C:\Users\jab\source\repos\PROJETO RAMAL LIST\Protótipo 0.2\ListaRamal\ListaRamal\bin\Debug\net7.0\ListaRamal.dll
+C:\Users\jab\source\repos\PROJETO RAMAL LIST\Protótipo 0.2\ListaRamal\ListaRamal\bin\Debug\net7.0\ListaRamal.pdb
+C:\Users\jab\source\repos\PROJETO RAMAL LIST\Protótipo 0.2\ListaRamal\ListaRamal\obj\Debug\net7.0\ListaRamal.csproj.AssemblyReference.cache
+C:\Users\jab\source\repos\PROJETO RAMAL LIST\Protótipo 0.2\ListaRamal\ListaRamal\obj\Debug\net7.0\ListaRamal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jab\source\repos\PROJETO RAMAL LIST\Protótipo 0.2\ListaRamal\ListaRamal\obj\Debug\net7.0\ListaRamal.AssemblyInfoInputs.cache
+C:\Users\jab\source\repos\PROJETO RAMAL LIST\Protótipo 0.2\ListaRamal\ListaRamal\obj\Debug\net7.0\ListaRamal.AssemblyInfo.cs
+C:\Users\jab\source\repos\PROJETO RAMAL LIST\Protótipo 0.2\ListaRamal\ListaRamal\obj\Debug\net7.0\ListaRamal.csproj.CoreCompileInputs.cache
+C:\Users\jab\source\repos\PROJETO RAMAL LIST\Protótipo 0.2\ListaRamal\ListaRamal\obj\Debug\net7.0\ListaRamal.dll
+C:\Users\jab\source\repos\PROJETO RAMAL LIST\Protótipo 0.2\ListaRamal\ListaRamal\obj\Debug\net7.0\refint\ListaRamal.dll
+C:\Users\jab\source\repos\PROJETO RAMAL LIST\Protótipo 0.2\ListaRamal\ListaRamal\obj\Debug\net7.0\ListaRamal.pdb
+C:\Users\jab\source\repos\PROJETO RAMAL LIST\Protótipo 0.2\ListaRamal\ListaRamal\obj\Debug\net7.0\ListaRamal.genruntimeconfig.cache
+C:\Users\jab\source\repos\PROJETO RAMAL LIST\Protótipo 0.2\ListaRamal\ListaRamal\obj\Debug\net7.0\ref\ListaRamal.dll
+C:\Users\jab\source\repos\PROJETO RAMAL LIST\Protótipo 0.3\ListaRamal\ListaRamal\bin\Debug\net7.0\ListaRamal.exe
+C:\Users\jab\source\repos\PROJETO RAMAL LIST\Protótipo 0.3\ListaRamal\ListaRamal\bin\Debug\net7.0\ListaRamal.deps.json
+C:\Users\jab\source\repos\PROJETO RAMAL LIST\Protótipo 0.3\ListaRamal\ListaRamal\bin\Debug\net7.0\ListaRamal.runtimeconfig.json
+C:\Users\jab\source\repos\PROJETO RAMAL LIST\Protótipo 0.3\ListaRamal\ListaRamal\bin\Debug\net7.0\ListaRamal.dll
+C:\Users\jab\source\repos\PROJETO RAMAL LIST\Protótipo 0.3\ListaRamal\ListaRamal\bin\Debug\net7.0\ListaRamal.pdb
+C:\Users\jab\source\repos\PROJETO RAMAL LIST\Protótipo 0.3\ListaRamal\ListaRamal\obj\Debug\net7.0\ListaRamal.csproj.AssemblyReference.cache
+C:\Users\jab\source\repos\PROJETO RAMAL LIST\Protótipo 0.3\ListaRamal\ListaRamal\obj\Debug\net7.0\ListaRamal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jab\source\repos\PROJETO RAMAL LIST\Protótipo 0.3\ListaRamal\ListaRamal\obj\Debug\net7.0\ListaRamal.AssemblyInfoInputs.cache
+C:\Users\jab\source\repos\PROJETO RAMAL LIST\Protótipo 0.3\ListaRamal\ListaRamal\obj\Debug\net7.0\ListaRamal.AssemblyInfo.cs
+C:\Users\jab\source\repos\PROJETO RAMAL LIST\Protótipo 0.3\ListaRamal\ListaRamal\obj\Debug\net7.0\ListaRamal.csproj.CoreCompileInputs.cache
+C:\Users\jab\source\repos\PROJETO RAMAL LIST\Protótipo 0.3\ListaRamal\ListaRamal\obj\Debug\net7.0\ListaRamal.dll
+C:\Users\jab\source\repos\PROJETO RAMAL LIST\Protótipo 0.3\ListaRamal\ListaRamal\obj\Debug\net7.0\refint\ListaRamal.dll
+C:\Users\jab\source\repos\PROJETO RAMAL LIST\Protótipo 0.3\ListaRamal\ListaRamal\obj\Debug\net7.0\ListaRamal.pdb
+C:\Users\jab\source\repos\PROJETO RAMAL LIST\Protótipo 0.3\ListaRamal\ListaRamal\obj\Debug\net7.0\ListaRamal.genruntimeconfig.cache
+C:\Users\jab\source\repos\PROJETO RAMAL LIST\Protótipo 0.3\ListaRamal\ListaRamal\obj\Debug\net7.0\ref\ListaRamal.dll
