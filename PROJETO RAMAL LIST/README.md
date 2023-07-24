@@ -12,7 +12,6 @@ Verificar a permissão de acesso de um ramal específico, mostrando as restriç�
 Para Usuários Comuns:
 Visualizar a lista de ramais disponíveis na organização, incluindo informações como nome, departamento e permissões de acesso.
 Pesquisar ramais por nome, departamento ou número.
-Verificar a permissão de acesso de um ramal específico, para saber quais chamadas são permitidas.
 
 Como utilizar:
 Clone este repositório para a sua máquina local.
